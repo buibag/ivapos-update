@@ -1,7 +1,7 @@
 {
-  "latestVersionCode": 1,
-  "latestVersionName": "1.0.0",
-  "downloadUrl": "https://github.com/buibag/ivapos-update/releases/download/v1.0.0/ivapos-1.0.0.apk",
-  "changelog": "Khởi tạo IvaPos",
-  "sha256": ""
+  "latestVersionCode": 9,
+  "latestVersionName": "1.0.8",
+  "downloadUrl": "https://github.com/buibag/ivapos-update/releases/download/v1.0.8/ivapos-1.0.8.apk",
+  "changelog": "Auto test",
+  "sha256": "0cd5ad0a82c7735dbfdb5930dd8c39289f75dd36bcbc0f190c1ad331568f373d"
 }
